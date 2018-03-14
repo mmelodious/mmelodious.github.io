@@ -5,7 +5,7 @@ description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: hubertzou
 # 头像里面的描述
-avatarDesc: 自然语言处理 / 机器学习 / 计算机视觉
+avatarDesc: NLP / ML / CV 
 url: "http://mmelodious.github.io"
 
 # Comment
@@ -21,25 +21,20 @@ social:
     mail: hongbinzou@gmail.com
 
 # 百度统计 
-# 使用博客模板请去掉或者更换 id 
 baidu:
     id: 45ffe881d6dfe8099916360b4bb7239c  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3   
-    host: auto  
+#ga:
+#    id: 
+#    host:
 
 
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
 #
 #
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
 #
 #
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
 
 permalink: /:year/:month/:title/
